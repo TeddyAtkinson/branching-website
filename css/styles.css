@@ -1,4 +1,18 @@
 h1{
-  color: aquamarine;
+  color: black;
+  text-align: center;
+}
 
+body{
+  background-color: tomato;
+  text-align: center;
+}
+
+h2{
+  color: forestgreen;
+  text-align: center;
+}
+
+p{
+  color: orange;
 }
